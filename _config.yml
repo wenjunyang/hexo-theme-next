@@ -602,9 +602,9 @@ disqusjs:
 
 # Changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cywypYwSR
+  appkey: fb60f4e86d7b474c4b6bb676ee27aa8e
   #post_meta_order: 0
 
 # Valine
@@ -633,7 +633,7 @@ livere_uid: # <your_uid>
 # Gitalk
 # For more information: https://gitalk.github.io, https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   github_id: wenjunyang # GitHub repo owner
   repo: blog_comments # Repository name to store issues
   client_id: 52c761ac19392f077e9a # GitHub Application Client ID
